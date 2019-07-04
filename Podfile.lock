@@ -1,0 +1,93 @@
+PODS:
+  - CXCTAssertAutolayout (0.1.3)
+  - Differentiator (3.1.0)
+  - FLEX (3.0.0)
+  - RIBs (0.9.1):
+    - RxSwift (~> 4.0)
+  - RxAppState (1.5.0):
+    - RxCocoa (~> 4.4)
+    - RxSwift (~> 4.4)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxCocoaExt (0.5.2):
+    - RxCocoa
+    - RxSwift
+    - RxSwiftExt
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxKeyboard (0.9.0):
+    - RxCocoa (>= 4.3.1)
+    - RxSwift (>= 4.3.1)
+  - RxOptional (3.6.2):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - RxSwiftExt (3.4.0):
+    - RxSwiftExt/Core (= 3.4.0)
+    - RxSwiftExt/RxCocoa (= 3.4.0)
+  - RxSwiftExt/Core (3.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwiftExt/RxCocoa (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwiftExt/Core
+  - RxSwiftUtilities (2.1.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - Then (2.5.0)
+  - XCTAssertAutolayout (0.1.3):
+    - CXCTAssertAutolayout
+
+DEPENDENCIES:
+  - FLEX
+  - RIBs
+  - RxAppState
+  - RxCocoa
+  - RxCocoaExt
+  - RxDataSources
+  - RxKeyboard
+  - RxOptional
+  - RxSwift
+  - RxSwiftUtilities
+  - Then
+  - XCTAssertAutolayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CXCTAssertAutolayout
+    - Differentiator
+    - FLEX
+    - RIBs
+    - RxAppState
+    - RxCocoa
+    - RxCocoaExt
+    - RxDataSources
+    - RxKeyboard
+    - RxOptional
+    - RxSwift
+    - RxSwiftExt
+    - RxSwiftUtilities
+    - Then
+    - XCTAssertAutolayout
+
+SPEC CHECKSUMS:
+  CXCTAssertAutolayout: d6d4079f4c84781be3ee117f5c42cbe6b04385ec
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  FLEX: d66c759bce0f6ebbbf472c742380874d846f2883
+  RIBs: 879184fbca567425c488d6b3d14a9c5abfbf9d47
+  RxAppState: 46cae19e582daf7283a8f9ef553e7c049e1565b4
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxCocoaExt: 37f137719b6b7b1ff372e0c2dd5d89889ca99097
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxKeyboard: 4f782303f499f41577b41c96c6a9a5d7acd51a47
+  RxOptional: 80426a0ddbd092573e4c482d8cc13302078c4d5e
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxSwiftExt: 01f8ecbeeb355698e9c75365ebe908b00dacf45d
+  RxSwiftUtilities: b486df7454cc867c3ea626ce24110511159e7044
+  Then: 0157115e883545c77967b452fe74a1d25fb796e1
+  XCTAssertAutolayout: 0a2722e2c1a1416cb71656ea3a7d9ca7ac4f6e97
+
+PODFILE CHECKSUM: 9996170edacc2fa4cac8f1a52bf60c30bd98f61d
+
+COCOAPODS: 1.7.2
